@@ -1,0 +1,2 @@
+# PSlenvoSecureBoot
+PSLenvoSecureboot for intune
